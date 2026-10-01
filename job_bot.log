@@ -1,0 +1,15 @@
+2026-07-14 14:08:03,832 - INFO - ⚠️ No profile found. Please run setup first.
+2026-07-14 14:09:39,223 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/e27fd562e252657d97165e9c141a4c5d
+2026-07-14 14:09:39,232 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49856): Failed to establish a new connection: [Errno 61] Connection refused")': /session/e27fd562e252657d97165e9c141a4c5d
+2026-07-14 14:09:39,260 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49856): Failed to establish a new connection: [Errno 61] Connection refused")': /session/e27fd562e252657d97165e9c141a4c5d
+2026-07-14 14:09:39,267 - INFO - 🧹 Cleanup complete
+2026-07-14 14:09:56,994 - INFO - ⚠️ No profile found. Please run setup first.
+2026-07-14 14:12:09,614 - INFO - ✅ Profile setup complete!
+2026-07-14 14:12:51,798 - INFO - 🚀 Running job bot once...
+2026-07-14 14:12:51,798 - INFO - 🔍 Starting job search...
+2026-07-14 14:13:21,720 - INFO - 📊 Found 0 jobs
+2026-07-14 14:13:21,721 - INFO - No new jobs found
+2026-07-14 14:13:32,791 - INFO - 🚀 Running job bot once...
+2026-07-14 14:13:32,792 - INFO - 🔍 Starting job search...
+2026-07-14 14:14:00,894 - INFO - 📊 Found 0 jobs
+2026-07-14 14:14:00,895 - INFO - No new jobs found
